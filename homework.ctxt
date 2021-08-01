@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=homework
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=p
+comment2.target=int\ numberOfQuestions_withDash(java.lang.String)
+comment3.params=p
+comment3.target=int\ numberOfQuestions_withoutDash(java.lang.String)
+numComments=4
